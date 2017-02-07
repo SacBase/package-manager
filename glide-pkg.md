@@ -1,3 +1,7 @@
+Source code: https://github.com/Masterminds/glide
+Website: https://www.glide.sh/
+Docs: https://glide.readthedocs.io/en/latest/
+
 Glide is an open source package manager for the Go programming language. It's written in Go.
 Offered featues:
 
